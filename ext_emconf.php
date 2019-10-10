@@ -1,6 +1,4 @@
 <?php
-declare(strict_types=1);
-
 $EM_CONF[$_EXTKEY] = [
     'title' => 'Static Info Tables (ar)',
     'description' => 'Arabic (ar) language pack for the Static Info Tables providing localized names for countries.',
