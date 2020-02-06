@@ -25,7 +25,7 @@ class Language extends AbstractEntity
         return $this->nameAr;
     }
 
-    public function setNameAr(string $nameAr): void
+    public function setNameAr(string $nameAr)
     {
         $this->nameAr = $nameAr;
     }
