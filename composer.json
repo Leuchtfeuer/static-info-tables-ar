@@ -13,8 +13,8 @@
     }
   ],
   "support": {
-    "issues": "https://github.com/bitmotion/static-info-tables-ar/issues",
-    "source": "https://github.com/bitmotion/static-info-tables-ar",
+    "issues": "https://github.com/Leuchtfeuer/static-info-tables-ar/issues",
+    "source": "https://github.com/Leuchtfeuer/static-info-tables-ar",
     "email": "typo3-ext@bitmotion.de"
   },
   "replace": {
