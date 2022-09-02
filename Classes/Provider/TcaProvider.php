@@ -11,9 +11,9 @@ declare(strict_types=1);
  * Max Rösch <m.roesch@Leuchtfeuer.com>, Leuchtfeuer Digital Marketing
  */
 
-namespace Bitmotion\StaticInfoTablesAr\Provider;
+namespace Leuchtfeuer\StaticInfoTablesAr\Provider;
 
-use Bitmotion\StaticInfoTablesAr\Extension;
+use Leuchtfeuer\StaticInfoTablesAr\Extension;
 use TYPO3\CMS\Core\Utility\ExtensionManagementUtility;
 
 class TcaProvider
