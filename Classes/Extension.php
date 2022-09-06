@@ -11,7 +11,7 @@ declare(strict_types=1);
  * Max Rösch <m.roesch@Leuchtfeuer.com>, Leuchtfeuer Digital Marketing
  */
 
-namespace Bitmotion\StaticInfoTablesAr;
+namespace Leuchtfeuer\StaticInfoTablesAr;
 
 class Extension
 {

@@ -4,7 +4,7 @@ $EM_CONF['static_info_tables_ar'] = [
     'title' => 'Static Info Tables (ar)',
     'description' => 'Arabic (ar) language pack for the Static Info Tables providing localized names for countries.',
     'category' => 'misc',
-    'version' => '6.9.2',
+    'version' => '7.0.0',
     'state' => 'stable',
     'uploadfolder' => false,
     'createDirs' => '',
@@ -14,16 +14,16 @@ $EM_CONF['static_info_tables_ar'] = [
     'author_company' => 'Leuchtfeuer Digital Marketing',
     'constraints' => [
         'depends' => [
-            'typo3' => '9.5.0-10.4.99',
+            'typo3' => '10.4.0-11.5.99',
             'php' => '7.2.0-7.4.99',
-            'static_info_tables' => '6.9.0-6.99.99',
+            'static_info_tables' => '6.7.3-11.5.99',
         ],
         'conflicts' => [],
         'suggests' => [],
     ],
     'autoload' => [
         'psr-4' => [
-            'Bitmotion\\StaticInfoTablesAr\\' => 'Classes',
+            'Leuchtfeuer\\StaticInfoTablesAr\\' => 'Classes',
         ],
     ],
 ];
